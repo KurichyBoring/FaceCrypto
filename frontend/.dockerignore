@@ -1,0 +1,11 @@
+**/node_modules/*
+**/dist/*
+**/test/*
+**/e2e/*
+**/.git/*
+**/*.log
+**/coverage/*
+**/venv/*
+**/__pycache__/*
+**/.pytest_cache/*
+**/test_*.py
